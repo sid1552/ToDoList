@@ -5,5 +5,5 @@ Installation :- <br /><br />
 To run this app on your local machine, you will need Node.js and npm installed.<br /> Clone the repository to your local machine and navigate to the project directory in your terminal.<br /> Run the following commands to install the app's dependencies and start the development server:<br /><br />
 npm install<br />
 npm start<br /><br />
-Usage :-
+Usage :-<br />
 To use the app, simply type the name of a task into the input field and click the "Add task" button. The added task will appear in the list. To mark a task as done, click the "Done" button next to it. The task will be removed from the list.
