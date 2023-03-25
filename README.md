@@ -6,7 +6,7 @@ To run this app on your local machine, you will need Node.js and npm installed.<
 npm install<br />
 npm start<br /><br />
 
-##DEMO :- https://sid1552.github.io/ToDoList/
+DEMO :- https://sid1552.github.io/ToDoList/
   
 ## Usage :-<br />
 To use the app, simply type the name of a task into the input field and click the "Add task" button. The added task will appear in the list. To mark a task as done, click the "Done" button next to it. The task will be removed from the list.
