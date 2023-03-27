@@ -3,7 +3,7 @@ This is a simple React To-Do App that allows the user to add tasks to a list and
 <br /><br />
 ## Installation :- <br />
 To run this app on your local machine, you will need Node.js and npm installed.<br /> Clone the repository to your local machine and navigate to the project directory in your terminal.<br /> Run the following commands to install the app's dependencies and start the development server:<br /><br />
-npm install<br />
+
 npm start<br /><br />
 
 DEMO :- https://sid1552.github.io/ToDoList/
